@@ -46,101 +46,6 @@ const About = () => {
       <div className=" md:max-w-[1400px] mt-[30rem] h-screen p-10 w-full flex-col justify-center items-center text-center  md:px-10 px-5 mx-auto relative ">
         <div className="w-full flex flex-col justify-center items-center mx-auto">
           <div className="flex flex-col justify-center items-center w-full mx-auto ">
-            {/* <img
-              src="https://www.mypthub.net/wp-content/uploads/FBA-logo.png"
-              alt="image"
-              className="md:w-[258px] md:h-[154px]"
-            /> */}
-            {/* <div className="md:max-w-[1200px] bg-white flex justify-between  w-full  mt-[5rem] shadow-md text-[#0077ff] items-center mx-auto p-9 rounded-md">
-              <div>
-                <img
-                  src="https://www.mypthub.net/wp-content/uploads/puregym-1.png.webp"
-                  alt="image"
-                  className="h-auto w-auto"
-                />
-              </div>
-              <div>
-                <img
-                  src="https://www.mypthub.net/wp-content/uploads/thegymgroup-1.png.webp"
-                  alt="image"
-                  className="h-auto w-auto"
-                />
-              </div>
-              <div>
-                <img
-                  src="	https://www.mypthub.net/wp-content/uploads/futurefit-1.png.webp"
-                  alt="image"
-                  className="h-auto w-auto"
-                />
-              </div>
-              <div>
-                <img
-                  src="https://www.mypthub.net/wp-content/uploads/premierglobal.png.webp"
-                  alt="image"
-                  className="h-auto w-auto"
-                />
-              </div>
-              <div>
-                <img
-                  src="https://www.mypthub.net/wp-content/uploads/archon.png.webp"
-                  alt="image"
-                  className="h-auto w-auto"
-                />
-              </div>
-              <div>
-                <img
-                  src="https://www.mypthub.net/wp-content/uploads/cimspa-1.png.webp"
-                  alt="image"
-                  className="h-auto w-auto"
-                />
-              </div>
-            </div> */}
-            {/* <div className=" bg-white flex justify-between  w-full  mt-[5rem] shadow-md  items-center mx-auto p-9 rounded-md">
-              <div className="flex flex-col justify-center items-center">
-                <div>
-                  {" "}
-                  <h1 className="text-[3rem] font-bold text-[#0077ff]">
-                    100k+
-                  </h1>
-                </div>
-                <div>
-                  {" "}
-                  <p className="my-1">Fitness Professionals</p>
-                </div>
-              </div>
-              <div className="flex flex-col justify-center items-center">
-                <div>
-                  {" "}
-                  <h1 className="text-[3rem] font-bold text-[#0077ff]">
-                    1.5m+
-                  </h1>
-                </div>
-                <div>
-                  {" "}
-                  <p className="my-1">Fitness Users</p>
-                </div>
-              </div>
-              <div className="flex flex-col justify-center items-center">
-                <div>
-                  {" "}
-                  <h1 className="text-[3rem] font-bold text-[#0077ff]">12m+</h1>
-                </div>
-                <div>
-                  {" "}
-                  <p className="my-1">Workouts Created</p>
-                </div>
-              </div>
-              <div className="flex flex-col justify-center items-center">
-                <div>
-                  {" "}
-                  <h1 className="text-[3rem] font-bold text-[#0077ff]">5m+</h1>
-                </div>
-                <div>
-                  {" "}
-                  <p className="my-1">Face-to-Face Sessions</p>
-                </div>
-              </div>
-            </div> */}
             <div className="md:max-w-[1200px] flex justify-center flex-col  w-full  mt-[3rem]  items-center mx-auto p-9 rounded-md">
               <div>
                 <h1 className="text-[3.5rem]  font-bold leading-[48px] mt-8">
@@ -156,80 +61,7 @@ const About = () => {
                 </p>
               </div>
             </div>
-            {/* <div className="  flex justify-between  w-full  mt-[3rem]   items-center mx-auto p-9 ">
-              <div className="flex flex-col justify-center items-center">
-                <div>
-                  {" "}
-                  <div className=" w-full">
-                    <div className="">
-                      <img
-                        src="https://www.mypthub.net/wp-content/uploads/home-play-overview.png"
-                        alt="Image"
-                        className="cursor-pointer"
-                      />
-                    </div>
-                  </div>
-                </div>
-                <div>
-                  {" "}
-                  <p className="my-1">Fitness Professionals</p>
-                </div>
-              </div>
-              <div className="flex flex-col justify-center items-center">
-                <div>
-                  {" "}
-                  <div className=" w-full">
-                    <div className="">
-                      <img
-                        src="https://www.mypthub.net/wp-content/uploads/home-play-overview.png"
-                        alt="Image"
-                        className="cursor-pointer"
-                      />
-                    </div>
-                  </div>
-                </div>
-                <div>
-                  {" "}
-                  <p className="my-1">Fitness Professionals</p>
-                </div>
-              </div>
-              <div className="flex flex-col justify-center items-center">
-                <div>
-                  {" "}
-                  <div className=" w-full">
-                    <div className="">
-                      <img
-                        src="https://www.mypthub.net/wp-content/uploads/home-play-overview.png"
-                        alt="Image"
-                        className="cursor-pointer"
-                      />
-                    </div>
-                  </div>
-                </div>
-                <div>
-                  {" "}
-                  <p className="my-1">Fitness Professionals</p>
-                </div>
-              </div>
-              <div className="flex flex-col justify-center items-center">
-                <div>
-                  {" "}
-                  <div className=" w-full">
-                    <div className="">
-                      <img
-                        src="https://www.mypthub.net/wp-content/uploads/home-play-overview.png"
-                        alt="Image"
-                        className="cursor-pointer"
-                      />
-                    </div>
-                  </div>
-                </div>
-                <div>
-                  {" "}
-                  <p className="my-1">Fitness Professionals</p>
-                </div>
-              </div>
-            </div> */}
+
             <div className="bg-white font-semibold my-[3rem]  shadow-2xl rounded-full  text-[#0077ff] md:max-w-[600px] flex justify-center items-centermx-auto ">
               <button className="md:max-w-[600px] font-semibold py-4 px-8  text-[1rem] ">
                 VIEW ALL FEATURES
@@ -305,7 +137,7 @@ const About = () => {
             <div className="flex md:flex-row flex-col  justify-start items-center">
               <div className="md:w-1/2">
                 {" "}
-                <img src="./download.webp" alt="" />
+                {/* <img src="./download.webp" alt="" /> */}
               </div>
               <div className="flex flex-col justify-start items-start md:w-1/2">
                 <div className="flex flex-col  justify-start items-start font-semibold justify-start">
@@ -367,7 +199,6 @@ const About = () => {
           lg:flex-row lg:px-0 lg:space-x-8 
           xl:space-x-24
       ">
-            {/* top/left section */}
             <div className="relative w-full max-w-full md:px-24 ">
               <div
                 className="
@@ -446,7 +277,6 @@ const About = () => {
                   <span className="font-bold mx-2">soon</span>.
                 </p>
               </div>
-              {/* background elements */}
               <div></div>
             </div>
           </div>
