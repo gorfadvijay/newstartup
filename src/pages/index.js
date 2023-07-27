@@ -43,21 +43,9 @@ export default function index() {
         <link rel="icon" href="/favicon.ico" />
 
         <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-        <link
-          href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap"
-          rel="stylesheet"></link>
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin />
       </Head>
-      {/* 
-      <Header
-        isOpen={isOpen}
-        openModal={openModal}
-        CloseModal={CloseModal}
-        showNav={showNav}
-        setShowNav={setShowNav}
-        onMoboClicks={onMoboClicks}
-        scrollActive={scrollActive}
-      /> */}
+
       <Home />
       <About />
     </>
