@@ -47,8 +47,8 @@ const Home = () => {
             </div>
             <div className="absolute bottom-0 right-0 top-[19rem]">
               <img
-                src="https://www.mypthub.net/wp-content/uploads/watch-home-hero.png.webp"
-                className="h-[150vh] w-auto  -ml-20"
+                src="./ev.png"
+                className="h-[150vh] w-auto  -ml-20 bg-blend-darken"
               />
             </div>
           </div>
